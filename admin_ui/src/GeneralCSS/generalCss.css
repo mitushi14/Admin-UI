@@ -1,0 +1,23 @@
+.flexRowContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexColumnContainer {
+  display: flex;
+}
+
+p {
+  margin-bottom: 0 !important;
+}
+
+.pageButton {
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: none;
+}
+
+:root {
+  --shadow: rgba(185, 178, 178, 0.479);
+}

@@ -1,0 +1,30 @@
+.headerLastItem {
+  margin-left: auto;
+}
+
+.alignSelf {
+  align-self: center;
+}
+
+.centerAlign {
+  align-content: center;
+}
+.header {
+  margin: 0 1rem;
+  align-items: center;
+  padding-top: 1.7rem;
+}
+
+.navigationBar {
+  height: 6rem;
+  width: 100%;
+  box-shadow: 0rem 0rem 8rem var(--shadow);
+}
+
+.marginLeft {
+  margin-left: 1rem;
+}
+
+.name {
+  margin-left: 0.5rem;
+}
